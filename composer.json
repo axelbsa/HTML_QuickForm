@@ -1,6 +1,6 @@
 {
     "name": "axelbsa/HTML_QuickForm",
-    "version": "3.2.14",
+    "version": "3.2.16.1",
     "require": {
         "pear-pear.php.net/html_common": ">=1.2.1.0",
         "php": ">=5.3.0.0"
